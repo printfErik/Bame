@@ -1,4 +1,4 @@
-## Bame 
+# Bame 
 
-# Description 
+## Description 
 A C++ game engine developed for Windows and Linux, implemented by OpenGL/Vulkan
